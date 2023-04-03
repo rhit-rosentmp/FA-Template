@@ -1,0 +1,12 @@
+body {
+    background: #fdfdfd;
+}
+
+.navbar {
+    background-color: #e7f3f6;
+    color: rgb(0, 238, 255);
+}
+
+.page-container {
+    margin-top: 75px;
+}
